@@ -7,7 +7,20 @@
     <style>
       *{margin:0; padding:0;}
       html{font-family: Helvetica, Arial, sans-serif; background:#eee; font-size:0.8rem;}
-      main{padding:10%;}
+      header{padding:5% 12% 0 12%;}
+      header h1{
+        margin:0 15%;
+        text-align: center;
+      }
+      header p{
+        line-height: 1.5;
+        margin:3% 0;
+      }
+      main{padding:0 10%;}
+      footer{padding:3% 15%; clear:both;}
+      footer p{
+        text-align: center;
+      }
       article{float:left; margin:1%; padding:1%; width:21%; background:#fff; text-align: center;}
       @media (orientation: portrait) {
         article{width:46%}
@@ -15,7 +28,14 @@
     </style>
   </head>
   <body>
+    <header>
+      <h1>¿Qué porcentaje de sus inscripciones en Proyecto de Título II aprueba Examen de Título?</h1>
+      <p>Se consultan datos en UCampus. Se consideran "ocupados" en distintas secciones de Proyecto de Título II a cargo de un(a) mismo(a) Profesor(a) entre segundo semestre de 2021 y segundo semestre de 2024. Una inscripción no debe considerarse como una persona, cuando una misma persona puede inscribir Proyecto de Título II más de 1 vez.</p>
+    </header>
     <main></main>
+    <footer>
+      <p><small>Diseño y visualización de información | Diseño mención Visual y Medios | Universidad de Chile</small></p>
+    </footer>
   <script>
     const alla = document.querySelector("main");
     async function datos() {

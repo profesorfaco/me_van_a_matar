@@ -43,6 +43,16 @@
       const consulta = await fetch("https://raw.githubusercontent.com/profesorfaco/troncal/refs/heads/main/clase-06/datos-durisimos.json");
       const data = await consulta.json();
       console.log(data);
+
+      data.sort(function (a, b) {
+        if (a.alfabetico < b.alfabetico) {
+          return -1;
+        }
+        if (a.alfabetico > b.alfabetico) {
+          return 1;
+        }
+        return 0;
+      });
       data.forEach((d)=>{
       alla.innerHTML += `
       <article>

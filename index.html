@@ -47,7 +47,7 @@
       alla.innerHTML += `
       <article>
         <p>${d.profe}</p>
-        <svg width="100%" height="100%" viewBox="0 0 42 42"><circle cx="21" cy="21" r="15.91549430918954" fill="transparent" stroke="#00f" stroke-width="2"></circle><circle class="donut-segment" cx="21" cy="21" r="15.91549430918954" fill="transparent" stroke="#eef" stroke-width="2" stroke-dasharray="${100-d.porcentajes} ${d.porcentajes}" stroke-dashoffset="25"></circle><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="7">${d.porcentajes}%</text><text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" font-size="2">${d.titulades} de ${d.guiades}</text></svg>
+        <svg width="100%" height="100%" viewBox="0 0 42 42"><circle cx="21" cy="21" r="15.91549430918954" fill="transparent" stroke="#FBE9E7" stroke-width="2"></circle><circle class="donut-segment" cx="21" cy="21" r="15.91549430918954" fill="transparent" stroke="#BF360C" stroke-width="2" stroke-dasharray="${d.porcentajes} ${100-d.porcentajes}" stroke-dashoffset="25"></circle><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="7">${d.porcentajes}%</text><text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" font-size="2">${d.titulades} de ${d.guiades}</text></svg>
       </article>`;
       })
     }

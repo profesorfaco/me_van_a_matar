@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html lang="es">
   <head>
@@ -19,19 +20,17 @@
       main{padding:0 10%;}
       main article{box-shadow: 0 0 5px #eee; border-radius: 4px;}
       footer{padding:3% 15%; clear:both;}
-      footer p{
-        text-align: center;
-      }
+      footer p{text-align: center;}
       article{float:left; margin:1%; padding:1%; width:21%; background:#fff; text-align: center;}
       @media (orientation: portrait) {
-        article{width:46%}
+        article{width:46%; font-size:90%}
       }
     </style>
   </head>
   <body>
     <header>
       <h1>¿Qué porcentaje de sus inscripciones en Proyecto de Título II aprueba Examen de Título?</h1>
-      <p>Los datos de 209 Examenes de Título ya aprobados se cruzan con loa datos disponibles en UCampus: Se cuentan "ocupados" en distintas secciones de Proyecto de Título II entre segundo semestre de 2021 y segundo semestre de 2024.</p> 
+      <p>Los datos de 209 Examenes de Título ya aprobados se cruzan con datos disponibles en UCampus: Se cuentan "ocupados" en distintas secciones de Proyecto de Título II entre segundo semestre de 2021 y segundo semestre de 2024.</p> 
       <p>Los "ocupados" que se cuentan corresponden a inscripciones, no personas; una misma persona puede inscribir Proyecto de Título II más de una vez (sea porque abandona las responsabilidades del semestre, se le recomienda no entregar al final del semestre o reprueba examen de título después de haber entregado).</p>
       <p>Los porcentajes que siguen se aproximan para presentar sólo números enteros:</p>
     </header>
@@ -45,7 +44,6 @@
       const consulta = await fetch("https://raw.githubusercontent.com/profesorfaco/troncal/refs/heads/main/clase-06/datos-durisimos.json");
       const data = await consulta.json();
       console.log(data);
-
       data.sort(function (a, b) {
         if (a.alfabetico < b.alfabetico) {
           return -1;

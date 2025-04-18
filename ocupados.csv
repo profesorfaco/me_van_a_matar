@@ -1,0 +1,163 @@
+year,semestre,codigo,seccion,profe,ocupados
+2021,2,AUD10I01,1,"Tapia Reyes, Mauricio",1
+2021,2,AUD10I01,2,"Lares López, Lorna",2
+2021,2,AUD10I01,3,"Perea Morales, René",1
+2021,2,AUD10I01,4,"Jacob Dazarola, Rubén",6
+2021,2,AUD10I01,5,"Wechsler Pizarro, Andrea",4
+2021,2,AUD10I01,6,"De la Sotta Lazzerini, Paola",3
+2021,2,AUD10I01,7,"Domínguez González, Pablo",4
+2021,2,AUD10V01,1,SIN PROFESOR,1
+2021,2,AUD10V01,3,"Cortez Orellana, Felipe",2
+2021,2,AUD10V01,7,"Ode Saleh, Verónica",1
+2021,2,AUD10V01,8,"Osses Flores, Roberto",1
+2021,2,AUD10V01,12,"Vico Sánchez, Mauricio",1
+2021,2,AUD10V01,15,"Gómez Moya, Cristián",2
+2022,1,AUD10I01,2,"Jacob Dazarola, Rubén",5
+2022,1,AUD10I01,3,"Domínguez González, Pablo",4
+2022,1,AUD10I01,4,"Wechsler Pizarro, Andrea",6
+2022,1,AUD10I01,5,"Lares López, Lorna",2
+2022,1,AUD10I01,6,"Perea Morales, René",1
+2022,1,AUD10I01,7,"De la Sotta Lazzerini, Paola",5
+2022,1,AUD10I01,8,"Tapia Reyes, Mauricio",1
+2022,1,AUD10V01,2,"Cortés López, Claudio",1
+2022,1,AUD10V01,3,"Castillo Espinoza, Eduardo",2
+2022,1,AUD10V01,6,"Soto Calquín, Leonardo",4
+2022,1,AUD10V01,8,"Cortez Orellana, Felipe",2
+2022,1,AUD10V01,9,"Osses Flores, Roberto",2
+2022,1,AUD10V01,10,"Méndez Olivares, Iván",2
+2022,1,AUD10V01,12,"Dueñas Santander, Rodrigo",3
+2022,1,AUD10V01,13,"Reyes León, Daniel",1
+2022,1,AUD10V01,15,"Gómez Moya, Cristián",3
+2022,2,AUD10I01,1,SIN PROFESOR,2
+2022,2,AUD10I01,2,"Jacob Dazarola, Rubén",6
+2022,2,AUD10I01,3,"De la Sotta Lazzerini, Paola",3
+2022,2,AUD10I01,4,"Wechsler Pizarro, Andrea",7
+2022,2,AUD10I01,6,"Donoso Cisternas, Sergio",2
+2022,2,AUD10I01,7,"Domínguez González, Pablo",9
+2022,2,AUD10I01,8,"Lares López, Lorna",2
+2022,2,AUD10V01,1,SIN PROFESOR,4
+2022,2,AUD10V01,2,"Ode Saleh, Verónica",6
+2022,2,AUD10V01,3,"Gatica Ramírez, Pamela",1
+2022,2,AUD10V01,4,"Castillo Espinoza, Eduardo",6
+2022,2,AUD10V01,6,"Dueñas Santander, Rodrigo",6
+2022,2,AUD10V01,7,"Osses Flores, Roberto",3
+2022,2,AUD10V01,8,"Vico Sánchez, Mauricio",1
+2022,2,AUD10V01,9,"Calvo Ivanovic, Ingrid",1
+2022,2,AUD10V01,10,"Reyes León, Daniel",1
+2022,2,AUD10V01,11,"Cortez Orellana, Felipe",4
+2022,2,AUD10V01,12,"Soto Calquín, Leonardo",3
+2022,2,AUD10V01,13,"Méndez Olivares, Iván",2
+2022,2,AUD10V01,15,"Cortés López, Claudio",1
+2023,1,AUD10I01,2,"Jacob Dazarola, Rubén",8
+2023,1,AUD10I01,4,"Domínguez González, Pablo",8
+2023,1,AUD10I01,5,"Donoso Cisternas, Sergio",4
+2023,1,AUD10I01,8,"Wechsler Pizarro, Andrea",7
+2023,1,AUD10I01,9,"Lares López, Lorna",1
+2023,1,AUD10I01,11,"Santibañez Boric, Mónica",1
+2023,1,AUD10I01,12,"De la Sotta Lazzerini, Paola",1
+2023,1,AUD10I01,13,"Zorzano Betancourt, Osvaldo",1
+2023,1,AUD10V01,1,SIN PROFESOR,2
+2023,1,AUD10V01,2,"Vico Sánchez, Mauricio",1
+2023,1,AUD10V01,3,"Lepe Muñoz, Juan Carlos",1
+2023,1,AUD10V01,4,"Perelli Soto, Bruno",2
+2023,1,AUD10V01,5,"Zorzano Betancourt, Osvaldo",2
+2023,1,AUD10V01,6,"Castillo Espinoza, Eduardo",4
+2023,1,AUD10V01,7,"Pagueguy Fenner, Sebastián",1
+2023,1,AUD10V01,8,"Dueñas Santander, Rodrigo",5
+2023,1,AUD10V01,9,"Ode Saleh, Verónica",2
+2023,1,AUD10V01,11,"Osses Flores, Roberto",2
+2023,1,AUD10V01,13,"Stange Marcus, Hans",1
+2023,1,AUD10V01,15,"Gatica Ramírez, Pamela",1
+2023,1,AUD10V01,17,"Reyes León, Daniel",1
+2023,1,AUD10V01,18,"Abud Carrillo, Jenny",5
+2023,1,AUD10V01,19,"Soto Calquín, Leonardo",4
+2023,1,AUD10V01,20,"Cortez Orellana, Felipe",2
+2023,2,AUD10I01,2,"Tapia Reyes, Mauricio",1
+2023,2,AUD10I01,5,"Nuñez Gutiérrez, Pablo",3
+2023,2,AUD10I01,6,"Lares López, Lorna",5
+2023,2,AUD10I01,8,"Domínguez González, Pablo",9
+2023,2,AUD10I01,9,"Wechsler Pizarro, Andrea",4
+2023,2,AUD10I01,10,"De la Sotta Lazzerini, Paola",4
+2023,2,AUD10I01,11,"Ruiz Balart, Macarena",2
+2023,2,AUD10I01,12,"Jacob Dazarola, Rubén",9
+2023,2,AUD10I01,13,"Lepe Muñoz, Juan Carlos",2
+2023,2,AUD10I01,14,"Donoso Cisternas, Sergio",5
+2023,2,AUD10I01,15,"Santibañez Boric, Mónica",1
+2023,2,AUD10I01,16,"Perea Morales, René",1
+2023,2,AUD10V01,2,"Gatica Ramírez, Pamela",6
+2023,2,AUD10V01,3,"Cortez Orellana, Felipe",1
+2023,2,AUD10V01,6,"Young Araya, Mariana",2
+2023,2,AUD10V01,7,"Osses Flores, Roberto",3
+2023,2,AUD10V01,8,"Pagueguy Fenner, Sebastián",4
+2023,2,AUD10V01,9,"Maldonado de la Fuente, Felix",1
+2023,2,AUD10V01,10,"Cortez Orellana, Felipe",2
+2023,2,AUD10V01,11,"Morales Mujica, María Paz",1
+2023,2,AUD10V01,12,"Pantoja Sánchez, Alejandro",2
+2023,2,AUD10V01,13,"Stange Marcus, Hans",2
+2023,2,AUD10V01,14,"Ode Saleh, Verónica",8
+2023,2,AUD10V01,16,"Vico Sánchez, Mauricio",1
+2023,2,AUD10V01,17,"Castillo Espinoza, Eduardo",5
+2023,2,AUD10V01,18,"Perelli Soto, Bruno",1
+2023,2,AUD10V01,19,"Soto Calquín, Leonardo",5
+2023,2,AUD10V01,20,"Zorzano Betancourt, Osvaldo",4
+2023,2,AUD10V01,21,"Dueñas Santander, Rodrigo",3
+2023,2,AUD10V01,22,"Reyes León, Daniel",1
+2024,1,AUD10I01,2,"Jacob Dazarola, Rubén",4
+2024,1,AUD10I01,3,"Domínguez González, Pablo",7
+2024,1,AUD10I01,4,"Wechsler Pizarro, Andrea",4
+2024,1,AUD10I01,6,"Maldonado de la Fuente, Felix",2
+2024,1,AUD10I01,10,"Donoso Cisternas, Sergio",2
+2024,1,AUD10I01,11,"Marín Pacheco, Antonio",1
+2024,1,AUD10I01,12,"Pradenas Guentherodt, Gabriela",1
+2024,1,AUD10I01,13,"Morales López, Héctor",2
+2024,1,AUD10I01,14,"Zorzano Betancourt, Osvaldo",1
+2024,1,AUD10I01,15,"Pantoja Sánchez, Alejandro",2
+2024,1,AUD10V01,2,"Abud Carrillo, Jenny",3
+2024,1,AUD10V01,3,"Dueñas Santander, Rodrigo",2
+2024,1,AUD10V01,4,"Ode Saleh, Verónica",2
+2024,1,AUD10V01,6,"Pagueguy Fenner, Sebastián",7
+2024,1,AUD10V01,7,"Soto Calquín, Leonardo",2
+2024,1,AUD10V01,8,"Young Araya, Mariana",5
+2024,1,AUD10V01,10,"Osses Flores, Roberto",2
+2024,1,AUD10V01,11,"Reyes León, Daniel",1
+2024,1,AUD10V01,12,"Morales Mujica, María Paz",1
+2024,1,AUD10V01,13,"Cortez Orellana, Felipe",2
+2024,1,AUD10V01,14,"Castillo Espinoza, Eduardo",2
+2024,1,AUD10V01,16,"Gatica Ramírez, Pamela",2
+2024,1,AUD10V01,17,"Zorzano Betancourt, Osvaldo",1
+2024,1,AUD10V01,18,"Pantoja Sánchez, Alejandro",1
+2024,1,AUD10V01,19,"Gómez Moya, Cristián",1
+2024,2,AUD10I01,2,"Donoso Cisternas, Sergio",3
+2024,2,AUD10I01,3,"Nuñez Gutiérrez, Pablo",2
+2024,2,AUD10I01,4,"Benavides Bermúdez, Paola",5
+2024,2,AUD10I01,5,"Domínguez González, Pablo",12
+2024,2,AUD10I01,6,"Perea Morales, René",4
+2024,2,AUD10I01,8,"Tapia Reyes, Mauricio",2
+2024,2,AUD10I01,9,"Lares López, Lorna",2
+2024,2,AUD10I01,10,"Maldonado de la Fuente, Felix",5
+2024,2,AUD10I01,11,"Wechsler Pizarro, Andrea",6
+2024,2,AUD10I01,12,"Marín Pacheco, Antonio",5
+2024,2,AUD10I01,13,"De la Sotta Lazzerini, Paola",3
+2024,2,AUD10I01,14,"Jacob Dazarola, Rubén",2
+2024,2,AUD10I01,15,"Silva Roquefort, Rebeca",1
+2024,2,AUD10I01,16,"Molina Oyarzún, Raúl",2
+2024,2,AUD10V01,2,"Perelli Soto, Bruno",4
+2024,2,AUD10V01,3,"Gatica Ramírez, Pamela",2
+2024,2,AUD10V01,4,"Méndez Olivares, Iván",2
+2024,2,AUD10V01,5,"Ode Saleh, Verónica",8
+2024,2,AUD10V01,6,"Pradenas Guentherodt, Gabriela",3
+2024,2,AUD10V01,7,"Morales Mujica, María Paz",7
+2024,2,AUD10V01,9,"Dueñas Santander, Rodrigo",5
+2024,2,AUD10V01,10,"Mora Briones, Alfredo",2
+2024,2,AUD10V01,11,"Jove Avilés, Trinidad",3
+2024,2,AUD10V01,12,"Castillo Espinoza, Eduardo",2
+2024,2,AUD10V01,13,"Cortez Orellana, Felipe",2
+2024,2,AUD10V01,14,"Gómez Moya, Cristián",2
+2024,2,AUD10V01,15,"Soto Calquín, Leonardo",3
+2024,2,AUD10V01,16,"Zorzano Betancourt, Osvaldo",2
+2024,2,AUD10V01,17,"Young Araya, Mariana",5
+2024,2,AUD10V01,18,"Osses Flores, Roberto",6
+2024,2,AUD10V01,19,"Abud Carrillo, Jenny",4
+2024,2,AUD10V01,21,"Maldonado de la Fuente, Felix",1
+2024,2,AUD10V01,22,"Nuñez Gutiérrez, Pablo",1
+2024,2,AUD10V01,23,"Pagueguy Fenner, Sebastián",2

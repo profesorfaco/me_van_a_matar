@@ -1,0 +1,1298 @@
+[
+  {
+    "year": 2021,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 1,
+    "profe": "Tapia Reyes, Mauricio",
+    "ocupados": 1
+  },
+  {
+    "year": 2021,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 2,
+    "profe": "Lares López, Lorna",
+    "ocupados": 2
+  },
+  {
+    "year": 2021,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 3,
+    "profe": "Perea Morales, René",
+    "ocupados": 1
+  },
+  {
+    "year": 2021,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 4,
+    "profe": "Jacob Dazarola, Rubén",
+    "ocupados": 6
+  },
+  {
+    "year": 2021,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 5,
+    "profe": "Wechsler Pizarro, Andrea",
+    "ocupados": 4
+  },
+  {
+    "year": 2021,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 6,
+    "profe": "De la Sotta Lazzerini, Paola",
+    "ocupados": 3
+  },
+  {
+    "year": 2021,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 7,
+    "profe": "Domínguez González, Pablo",
+    "ocupados": 4
+  },
+  {
+    "year": 2021,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 1,
+    "profe": "SIN PROFESOR",
+    "ocupados": 1
+  },
+  {
+    "year": 2021,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 3,
+    "profe": "Cortez Orellana, Felipe",
+    "ocupados": 2
+  },
+  {
+    "year": 2021,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 7,
+    "profe": "Ode Saleh, Verónica",
+    "ocupados": 1
+  },
+  {
+    "year": 2021,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 8,
+    "profe": "Osses Flores, Roberto",
+    "ocupados": 1
+  },
+  {
+    "year": 2021,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 12,
+    "profe": "Vico Sánchez, Mauricio",
+    "ocupados": 1
+  },
+  {
+    "year": 2021,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 15,
+    "profe": "Gómez Moya, Cristián",
+    "ocupados": 2
+  },
+  {
+    "year": 2022,
+    "semestre": 1,
+    "codigo": "AUD10I01",
+    "seccion": 2,
+    "profe": "Jacob Dazarola, Rubén",
+    "ocupados": 5
+  },
+  {
+    "year": 2022,
+    "semestre": 1,
+    "codigo": "AUD10I01",
+    "seccion": 3,
+    "profe": "Domínguez González, Pablo",
+    "ocupados": 4
+  },
+  {
+    "year": 2022,
+    "semestre": 1,
+    "codigo": "AUD10I01",
+    "seccion": 4,
+    "profe": "Wechsler Pizarro, Andrea",
+    "ocupados": 6
+  },
+  {
+    "year": 2022,
+    "semestre": 1,
+    "codigo": "AUD10I01",
+    "seccion": 5,
+    "profe": "Lares López, Lorna",
+    "ocupados": 2
+  },
+  {
+    "year": 2022,
+    "semestre": 1,
+    "codigo": "AUD10I01",
+    "seccion": 6,
+    "profe": "Perea Morales, René",
+    "ocupados": 1
+  },
+  {
+    "year": 2022,
+    "semestre": 1,
+    "codigo": "AUD10I01",
+    "seccion": 7,
+    "profe": "De la Sotta Lazzerini, Paola",
+    "ocupados": 5
+  },
+  {
+    "year": 2022,
+    "semestre": 1,
+    "codigo": "AUD10I01",
+    "seccion": 8,
+    "profe": "Tapia Reyes, Mauricio",
+    "ocupados": 1
+  },
+  {
+    "year": 2022,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 2,
+    "profe": "Cortés López, Claudio",
+    "ocupados": 1
+  },
+  {
+    "year": 2022,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 3,
+    "profe": "Castillo Espinoza, Eduardo",
+    "ocupados": 2
+  },
+  {
+    "year": 2022,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 6,
+    "profe": "Soto Calquín, Leonardo",
+    "ocupados": 4
+  },
+  {
+    "year": 2022,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 8,
+    "profe": "Cortez Orellana, Felipe",
+    "ocupados": 2
+  },
+  {
+    "year": 2022,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 9,
+    "profe": "Osses Flores, Roberto",
+    "ocupados": 2
+  },
+  {
+    "year": 2022,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 10,
+    "profe": "Méndez Olivares, Iván",
+    "ocupados": 2
+  },
+  {
+    "year": 2022,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 12,
+    "profe": "Dueñas Santander, Rodrigo",
+    "ocupados": 3
+  },
+  {
+    "year": 2022,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 13,
+    "profe": "Reyes León, Daniel",
+    "ocupados": 1
+  },
+  {
+    "year": 2022,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 15,
+    "profe": "Gómez Moya, Cristián",
+    "ocupados": 3
+  },
+  {
+    "year": 2022,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 1,
+    "profe": "SIN PROFESOR",
+    "ocupados": 2
+  },
+  {
+    "year": 2022,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 2,
+    "profe": "Jacob Dazarola, Rubén",
+    "ocupados": 6
+  },
+  {
+    "year": 2022,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 3,
+    "profe": "De la Sotta Lazzerini, Paola",
+    "ocupados": 3
+  },
+  {
+    "year": 2022,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 4,
+    "profe": "Wechsler Pizarro, Andrea",
+    "ocupados": 7
+  },
+  {
+    "year": 2022,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 6,
+    "profe": "Donoso Cisternas, Sergio",
+    "ocupados": 2
+  },
+  {
+    "year": 2022,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 7,
+    "profe": "Domínguez González, Pablo",
+    "ocupados": 9
+  },
+  {
+    "year": 2022,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 8,
+    "profe": "Lares López, Lorna",
+    "ocupados": 2
+  },
+  {
+    "year": 2022,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 1,
+    "profe": "SIN PROFESOR",
+    "ocupados": 4
+  },
+  {
+    "year": 2022,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 2,
+    "profe": "Ode Saleh, Verónica",
+    "ocupados": 6
+  },
+  {
+    "year": 2022,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 3,
+    "profe": "Gatica Ramírez, Pamela",
+    "ocupados": 1
+  },
+  {
+    "year": 2022,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 4,
+    "profe": "Castillo Espinoza, Eduardo",
+    "ocupados": 6
+  },
+  {
+    "year": 2022,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 6,
+    "profe": "Dueñas Santander, Rodrigo",
+    "ocupados": 6
+  },
+  {
+    "year": 2022,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 7,
+    "profe": "Osses Flores, Roberto",
+    "ocupados": 3
+  },
+  {
+    "year": 2022,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 8,
+    "profe": "Vico Sánchez, Mauricio",
+    "ocupados": 1
+  },
+  {
+    "year": 2022,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 9,
+    "profe": "Calvo Ivanovic, Ingrid",
+    "ocupados": 1
+  },
+  {
+    "year": 2022,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 10,
+    "profe": "Reyes León, Daniel",
+    "ocupados": 1
+  },
+  {
+    "year": 2022,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 11,
+    "profe": "Cortez Orellana, Felipe",
+    "ocupados": 4
+  },
+  {
+    "year": 2022,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 12,
+    "profe": "Soto Calquín, Leonardo",
+    "ocupados": 3
+  },
+  {
+    "year": 2022,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 13,
+    "profe": "Méndez Olivares, Iván",
+    "ocupados": 2
+  },
+  {
+    "year": 2022,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 15,
+    "profe": "Cortés López, Claudio",
+    "ocupados": 1
+  },
+  {
+    "year": 2023,
+    "semestre": 1,
+    "codigo": "AUD10I01",
+    "seccion": 2,
+    "profe": "Jacob Dazarola, Rubén",
+    "ocupados": 8
+  },
+  {
+    "year": 2023,
+    "semestre": 1,
+    "codigo": "AUD10I01",
+    "seccion": 4,
+    "profe": "Domínguez González, Pablo",
+    "ocupados": 8
+  },
+  {
+    "year": 2023,
+    "semestre": 1,
+    "codigo": "AUD10I01",
+    "seccion": 5,
+    "profe": "Donoso Cisternas, Sergio",
+    "ocupados": 4
+  },
+  {
+    "year": 2023,
+    "semestre": 1,
+    "codigo": "AUD10I01",
+    "seccion": 8,
+    "profe": "Wechsler Pizarro, Andrea",
+    "ocupados": 7
+  },
+  {
+    "year": 2023,
+    "semestre": 1,
+    "codigo": "AUD10I01",
+    "seccion": 9,
+    "profe": "Lares López, Lorna",
+    "ocupados": 1
+  },
+  {
+    "year": 2023,
+    "semestre": 1,
+    "codigo": "AUD10I01",
+    "seccion": 11,
+    "profe": "Santibañez Boric, Mónica",
+    "ocupados": 1
+  },
+  {
+    "year": 2023,
+    "semestre": 1,
+    "codigo": "AUD10I01",
+    "seccion": 12,
+    "profe": "De la Sotta Lazzerini, Paola",
+    "ocupados": 1
+  },
+  {
+    "year": 2023,
+    "semestre": 1,
+    "codigo": "AUD10I01",
+    "seccion": 13,
+    "profe": "Zorzano Betancourt, Osvaldo",
+    "ocupados": 1
+  },
+  {
+    "year": 2023,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 1,
+    "profe": "SIN PROFESOR",
+    "ocupados": 2
+  },
+  {
+    "year": 2023,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 2,
+    "profe": "Vico Sánchez, Mauricio",
+    "ocupados": 1
+  },
+  {
+    "year": 2023,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 3,
+    "profe": "Lepe Muñoz, Juan Carlos",
+    "ocupados": 1
+  },
+  {
+    "year": 2023,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 4,
+    "profe": "Perelli Soto, Bruno",
+    "ocupados": 2
+  },
+  {
+    "year": 2023,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 5,
+    "profe": "Zorzano Betancourt, Osvaldo",
+    "ocupados": 2
+  },
+  {
+    "year": 2023,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 6,
+    "profe": "Castillo Espinoza, Eduardo",
+    "ocupados": 4
+  },
+  {
+    "year": 2023,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 7,
+    "profe": "Pagueguy Fenner, Sebastián",
+    "ocupados": 1
+  },
+  {
+    "year": 2023,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 8,
+    "profe": "Dueñas Santander, Rodrigo",
+    "ocupados": 5
+  },
+  {
+    "year": 2023,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 9,
+    "profe": "Ode Saleh, Verónica",
+    "ocupados": 2
+  },
+  {
+    "year": 2023,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 11,
+    "profe": "Osses Flores, Roberto",
+    "ocupados": 2
+  },
+  {
+    "year": 2023,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 13,
+    "profe": "Stange Marcus, Hans",
+    "ocupados": 1
+  },
+  {
+    "year": 2023,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 15,
+    "profe": "Gatica Ramírez, Pamela",
+    "ocupados": 1
+  },
+  {
+    "year": 2023,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 17,
+    "profe": "Reyes León, Daniel",
+    "ocupados": 1
+  },
+  {
+    "year": 2023,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 18,
+    "profe": "Abud Carrillo, Jenny",
+    "ocupados": 5
+  },
+  {
+    "year": 2023,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 19,
+    "profe": "Soto Calquín, Leonardo",
+    "ocupados": 4
+  },
+  {
+    "year": 2023,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 20,
+    "profe": "Cortez Orellana, Felipe",
+    "ocupados": 2
+  },
+  {
+    "year": 2023,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 2,
+    "profe": "Tapia Reyes, Mauricio",
+    "ocupados": 1
+  },
+  {
+    "year": 2023,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 5,
+    "profe": "Nuñez Gutiérrez, Pablo",
+    "ocupados": 3
+  },
+  {
+    "year": 2023,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 6,
+    "profe": "Lares López, Lorna",
+    "ocupados": 5
+  },
+  {
+    "year": 2023,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 8,
+    "profe": "Domínguez González, Pablo",
+    "ocupados": 9
+  },
+  {
+    "year": 2023,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 9,
+    "profe": "Wechsler Pizarro, Andrea",
+    "ocupados": 4
+  },
+  {
+    "year": 2023,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 10,
+    "profe": "De la Sotta Lazzerini, Paola",
+    "ocupados": 4
+  },
+  {
+    "year": 2023,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 11,
+    "profe": "Ruiz Balart, Macarena",
+    "ocupados": 2
+  },
+  {
+    "year": 2023,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 12,
+    "profe": "Jacob Dazarola, Rubén",
+    "ocupados": 9
+  },
+  {
+    "year": 2023,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 13,
+    "profe": "Lepe Muñoz, Juan Carlos",
+    "ocupados": 2
+  },
+  {
+    "year": 2023,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 14,
+    "profe": "Donoso Cisternas, Sergio",
+    "ocupados": 5
+  },
+  {
+    "year": 2023,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 15,
+    "profe": "Santibañez Boric, Mónica",
+    "ocupados": 1
+  },
+  {
+    "year": 2023,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 16,
+    "profe": "Perea Morales, René",
+    "ocupados": 1
+  },
+  {
+    "year": 2023,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 2,
+    "profe": "Gatica Ramírez, Pamela",
+    "ocupados": 6
+  },
+  {
+    "year": 2023,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 3,
+    "profe": "Cortez Orellana, Felipe",
+    "ocupados": 1
+  },
+  {
+    "year": 2023,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 6,
+    "profe": "Young Araya, Mariana",
+    "ocupados": 2
+  },
+  {
+    "year": 2023,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 7,
+    "profe": "Osses Flores, Roberto",
+    "ocupados": 3
+  },
+  {
+    "year": 2023,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 8,
+    "profe": "Pagueguy Fenner, Sebastián",
+    "ocupados": 4
+  },
+  {
+    "year": 2023,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 9,
+    "profe": "Maldonado de la Fuente, Felix",
+    "ocupados": 1
+  },
+  {
+    "year": 2023,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 10,
+    "profe": "Cortez Orellana, Felipe",
+    "ocupados": 2
+  },
+  {
+    "year": 2023,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 11,
+    "profe": "Morales Mujica, María Paz",
+    "ocupados": 1
+  },
+  {
+    "year": 2023,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 12,
+    "profe": "Pantoja Sánchez, Alejandro",
+    "ocupados": 2
+  },
+  {
+    "year": 2023,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 13,
+    "profe": "Stange Marcus, Hans",
+    "ocupados": 2
+  },
+  {
+    "year": 2023,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 14,
+    "profe": "Ode Saleh, Verónica",
+    "ocupados": 8
+  },
+  {
+    "year": 2023,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 16,
+    "profe": "Vico Sánchez, Mauricio",
+    "ocupados": 1
+  },
+  {
+    "year": 2023,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 17,
+    "profe": "Castillo Espinoza, Eduardo",
+    "ocupados": 5
+  },
+  {
+    "year": 2023,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 18,
+    "profe": "Perelli Soto, Bruno",
+    "ocupados": 1
+  },
+  {
+    "year": 2023,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 19,
+    "profe": "Soto Calquín, Leonardo",
+    "ocupados": 5
+  },
+  {
+    "year": 2023,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 20,
+    "profe": "Zorzano Betancourt, Osvaldo",
+    "ocupados": 4
+  },
+  {
+    "year": 2023,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 21,
+    "profe": "Dueñas Santander, Rodrigo",
+    "ocupados": 3
+  },
+  {
+    "year": 2023,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 22,
+    "profe": "Reyes León, Daniel",
+    "ocupados": 1
+  },
+  {
+    "year": 2024,
+    "semestre": 1,
+    "codigo": "AUD10I01",
+    "seccion": 2,
+    "profe": "Jacob Dazarola, Rubén",
+    "ocupados": 4
+  },
+  {
+    "year": 2024,
+    "semestre": 1,
+    "codigo": "AUD10I01",
+    "seccion": 3,
+    "profe": "Domínguez González, Pablo",
+    "ocupados": 7
+  },
+  {
+    "year": 2024,
+    "semestre": 1,
+    "codigo": "AUD10I01",
+    "seccion": 4,
+    "profe": "Wechsler Pizarro, Andrea",
+    "ocupados": 4
+  },
+  {
+    "year": 2024,
+    "semestre": 1,
+    "codigo": "AUD10I01",
+    "seccion": 6,
+    "profe": "Maldonado de la Fuente, Felix",
+    "ocupados": 2
+  },
+  {
+    "year": 2024,
+    "semestre": 1,
+    "codigo": "AUD10I01",
+    "seccion": 10,
+    "profe": "Donoso Cisternas, Sergio",
+    "ocupados": 2
+  },
+  {
+    "year": 2024,
+    "semestre": 1,
+    "codigo": "AUD10I01",
+    "seccion": 11,
+    "profe": "Marín Pacheco, Antonio",
+    "ocupados": 1
+  },
+  {
+    "year": 2024,
+    "semestre": 1,
+    "codigo": "AUD10I01",
+    "seccion": 12,
+    "profe": "Pradenas Guentherodt, Gabriela",
+    "ocupados": 1
+  },
+  {
+    "year": 2024,
+    "semestre": 1,
+    "codigo": "AUD10I01",
+    "seccion": 13,
+    "profe": "Morales López, Héctor",
+    "ocupados": 2
+  },
+  {
+    "year": 2024,
+    "semestre": 1,
+    "codigo": "AUD10I01",
+    "seccion": 14,
+    "profe": "Zorzano Betancourt, Osvaldo",
+    "ocupados": 1
+  },
+  {
+    "year": 2024,
+    "semestre": 1,
+    "codigo": "AUD10I01",
+    "seccion": 15,
+    "profe": "Pantoja Sánchez, Alejandro",
+    "ocupados": 2
+  },
+  {
+    "year": 2024,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 2,
+    "profe": "Abud Carrillo, Jenny",
+    "ocupados": 3
+  },
+  {
+    "year": 2024,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 3,
+    "profe": "Dueñas Santander, Rodrigo",
+    "ocupados": 2
+  },
+  {
+    "year": 2024,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 4,
+    "profe": "Ode Saleh, Verónica",
+    "ocupados": 2
+  },
+  {
+    "year": 2024,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 6,
+    "profe": "Pagueguy Fenner, Sebastián",
+    "ocupados": 7
+  },
+  {
+    "year": 2024,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 7,
+    "profe": "Soto Calquín, Leonardo",
+    "ocupados": 2
+  },
+  {
+    "year": 2024,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 8,
+    "profe": "Young Araya, Mariana",
+    "ocupados": 5
+  },
+  {
+    "year": 2024,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 10,
+    "profe": "Osses Flores, Roberto",
+    "ocupados": 2
+  },
+  {
+    "year": 2024,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 11,
+    "profe": "Reyes León, Daniel",
+    "ocupados": 1
+  },
+  {
+    "year": 2024,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 12,
+    "profe": "Morales Mujica, María Paz",
+    "ocupados": 1
+  },
+  {
+    "year": 2024,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 13,
+    "profe": "Cortez Orellana, Felipe",
+    "ocupados": 2
+  },
+  {
+    "year": 2024,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 14,
+    "profe": "Castillo Espinoza, Eduardo",
+    "ocupados": 2
+  },
+  {
+    "year": 2024,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 16,
+    "profe": "Gatica Ramírez, Pamela",
+    "ocupados": 2
+  },
+  {
+    "year": 2024,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 17,
+    "profe": "Zorzano Betancourt, Osvaldo",
+    "ocupados": 1
+  },
+  {
+    "year": 2024,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 18,
+    "profe": "Pantoja Sánchez, Alejandro",
+    "ocupados": 1
+  },
+  {
+    "year": 2024,
+    "semestre": 1,
+    "codigo": "AUD10V01",
+    "seccion": 19,
+    "profe": "Gómez Moya, Cristián",
+    "ocupados": 1
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 2,
+    "profe": "Donoso Cisternas, Sergio",
+    "ocupados": 3
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 3,
+    "profe": "Nuñez Gutiérrez, Pablo",
+    "ocupados": 2
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 4,
+    "profe": "Benavides Bermúdez, Paola",
+    "ocupados": 5
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 5,
+    "profe": "Domínguez González, Pablo",
+    "ocupados": 12
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 6,
+    "profe": "Perea Morales, René",
+    "ocupados": 4
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 8,
+    "profe": "Tapia Reyes, Mauricio",
+    "ocupados": 2
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 9,
+    "profe": "Lares López, Lorna",
+    "ocupados": 2
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 10,
+    "profe": "Maldonado de la Fuente, Felix",
+    "ocupados": 5
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 11,
+    "profe": "Wechsler Pizarro, Andrea",
+    "ocupados": 6
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 12,
+    "profe": "Marín Pacheco, Antonio",
+    "ocupados": 5
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 13,
+    "profe": "De la Sotta Lazzerini, Paola",
+    "ocupados": 3
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 14,
+    "profe": "Jacob Dazarola, Rubén",
+    "ocupados": 2
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 15,
+    "profe": "Silva Roquefort, Rebeca",
+    "ocupados": 1
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10I01",
+    "seccion": 16,
+    "profe": "Molina Oyarzún, Raúl",
+    "ocupados": 2
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 2,
+    "profe": "Perelli Soto, Bruno",
+    "ocupados": 4
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 3,
+    "profe": "Gatica Ramírez, Pamela",
+    "ocupados": 2
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 4,
+    "profe": "Méndez Olivares, Iván",
+    "ocupados": 2
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 5,
+    "profe": "Ode Saleh, Verónica",
+    "ocupados": 8
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 6,
+    "profe": "Pradenas Guentherodt, Gabriela",
+    "ocupados": 3
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 7,
+    "profe": "Morales Mujica, María Paz",
+    "ocupados": 7
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 9,
+    "profe": "Dueñas Santander, Rodrigo",
+    "ocupados": 5
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 10,
+    "profe": "Mora Briones, Alfredo",
+    "ocupados": 2
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 11,
+    "profe": "Jove Avilés, Trinidad",
+    "ocupados": 3
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 12,
+    "profe": "Castillo Espinoza, Eduardo",
+    "ocupados": 2
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 13,
+    "profe": "Cortez Orellana, Felipe",
+    "ocupados": 2
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 14,
+    "profe": "Gómez Moya, Cristián",
+    "ocupados": 2
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 15,
+    "profe": "Soto Calquín, Leonardo",
+    "ocupados": 3
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 16,
+    "profe": "Zorzano Betancourt, Osvaldo",
+    "ocupados": 2
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 17,
+    "profe": "Young Araya, Mariana",
+    "ocupados": 5
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 18,
+    "profe": "Osses Flores, Roberto",
+    "ocupados": 6
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 19,
+    "profe": "Abud Carrillo, Jenny",
+    "ocupados": 4
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 21,
+    "profe": "Maldonado de la Fuente, Felix",
+    "ocupados": 1
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 22,
+    "profe": "Nuñez Gutiérrez, Pablo",
+    "ocupados": 1
+  },
+  {
+    "year": 2024,
+    "semestre": 2,
+    "codigo": "AUD10V01",
+    "seccion": 23,
+    "profe": "Pagueguy Fenner, Sebastián",
+    "ocupados": 2
+  }
+]
